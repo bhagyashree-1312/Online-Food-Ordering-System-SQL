@@ -15,6 +15,7 @@ The database includes tables such as:
 - Orders
 - Order Details
 - Payments
+
 The schema ensures proper relationships using primary and foreign keys.
 
 ##  SQL Queries & Analysis
