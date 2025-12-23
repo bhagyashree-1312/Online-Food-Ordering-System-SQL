@@ -5,6 +5,7 @@ SQL project for online food ordering system database design and analysis.
 ##  Project Overview
 This project focuses on designing and analyzing an Online Food Ordering System using SQL.  
 The database structure was created to manage customers, restaurants, orders, menu items, and payments efficiently.
+
 SQL queries were written to extract meaningful insights related to orders, revenue, customer behavior, and restaurant performance.
 
 ##  Database Design
