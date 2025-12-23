@@ -1,6 +1,6 @@
 # Online Food Ordering System – SQL Project 
 SQL project for online food ordering system database design and analysis. 
-Author - Bhagyashree Pise
+## Author - Bhagyashree Pise
 
 ##  Project Overview
 This project focuses on designing and analyzing an Online Food Ordering System using SQL.  
